@@ -1,0 +1,14 @@
+{
+    "dataset": "mind",
+    "num_layers": 4,
+    "training_batch_step": 80000,
+    "min_lr": 0.0001,
+    "d_model": 128,
+    "dim_feedforward": 128,
+    "nhead": 8,
+    "weight_decay": 0.001,
+    "dropout": 0.1,
+    "position_encoding": "learned",
+    "not_weights_as_linear": false,
+    "item_num": 7129
+}
